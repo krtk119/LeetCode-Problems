@@ -33,6 +33,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | ------- | ------- |
 | [0066-plus-one](https://github.com/krtk119/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/krtk119/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/krtk119/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/krtk119/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/krtk119/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
