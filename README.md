@@ -18,6 +18,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/krtk119/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/krtk119/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +56,8 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krtk119/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
