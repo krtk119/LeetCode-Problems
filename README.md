@@ -27,6 +27,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/krtk119/LeetCode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/krtk119/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 ## Math
