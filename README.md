@@ -19,6 +19,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | [0035-search-insert-position](https://github.com/krtk119/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/krtk119/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/krtk119/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,8 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/krtk119/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/krtk119/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
