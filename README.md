@@ -29,6 +29,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/krtk119/LeetCode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
+| [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/krtk119/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 ## Math
@@ -36,6 +37,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/krtk119/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/krtk119/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
+| [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/krtk119/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/krtk119/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/krtk119/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
@@ -100,4 +102,8 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/krtk119/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
