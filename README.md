@@ -104,8 +104,13 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/krtk119/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/krtk119/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/krtk119/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
