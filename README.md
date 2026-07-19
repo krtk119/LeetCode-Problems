@@ -21,6 +21,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | [0066-plus-one](https://github.com/krtk119/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/krtk119/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/krtk119/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/krtk119/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,8 +113,14 @@ Consistent daily practice — building towards FAANG placement interviews.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0169-majority-element](https://github.com/krtk119/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krtk119/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/krtk119/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/krtk119/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
