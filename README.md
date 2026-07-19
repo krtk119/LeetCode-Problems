@@ -33,6 +33,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | [0012-integer-to-roman](https://github.com/krtk119/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/krtk119/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/krtk119/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Consistent daily practice — building towards FAANG placement interviews.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krtk119/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/krtk119/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/krtk119/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
